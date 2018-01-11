@@ -1550,7 +1550,7 @@ section{
 .bankuai_box1_text{
 	width: 183px;
 	height: 100%;
-	background: #e99824;
+/* 	background: #e99824; */
 	float: left;
 	position: relative;
 }
@@ -1586,7 +1586,7 @@ section{
 .bankuai_box1_img{
 	width: 207px;
 	height: 100%;
-	background: #e99824;
+/* 	background: #e99824; */
 	float: right;
 }
 .bankuai_box1_img img{
@@ -1603,21 +1603,23 @@ section{
 .bakuai_box2{
 	margin-bottom: 0;
 }
+.huangse{
+	background-image: -webkit-linear-gradient(left,#e89622,#f5c567);
+}
 .lanse{
-	background: #335eb7;
-	/* background-image: linear-gradient(left,#335cb5,#4b99fd); */
+	background-image: -webkit-linear-gradient(left,#335cb5,#4b99fd);
 }
 .lanlv{
-	background: #1c9eaf;
+	background-image: -webkit-linear-gradient(left,#1d9eaf,#3fcca7);
 }
 .hong{
-    background: #d23a38;
+    background-image: -webkit-linear-gradient(left,#d13937,#de6c4e);
 }
 .zihong{
-	background: #ca4284;
+	background-image: -webkit-linear-gradient(left,#cb4385,#eb75ce);
 }
 .zi{
-	background: #5e41c2;
+	background-image: -webkit-linear-gradient(left,#5e41c1,#8c5fdb);
 }
 .bankuai_right{
 	width: 390px;
